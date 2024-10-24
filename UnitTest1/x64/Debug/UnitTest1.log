@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\РОБОТИ ПДС\PDS_LAB_8\PDS_LAB_8\PDS_LAB_8.cpp(42,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library D:\РОБОТИ ПДС\PDS_LAB_8\x64\Debug\UnitTest1.lib and object D:\РОБОТИ ПДС\PDS_LAB_8\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\РОБОТИ ПДС\PDS_LAB_8\x64\Debug\UnitTest1.dll
